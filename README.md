@@ -1,3 +1,26 @@
+## zbar_ros (jade) - 0.0.5-0
+
+The packages in the `zbar_ros` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade zbar_ros` on `Thu, 27 Oct 2016 00:34:05 -0000`
+
+The `zbar_ros` package was released.
+
+Version of package(s) in repository `zbar_ros`:
+
+- upstream repository: https://github.com/clearpathrobotics/zbar_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## zbar_ros (kinetic) - 0.0.5-0
 
 The packages in the `zbar_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic zbar_ros` on `Thu, 27 Oct 2016 00:27:14 -0000`
