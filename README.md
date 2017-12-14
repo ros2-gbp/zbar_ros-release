@@ -1,3 +1,26 @@
+## zbar_ros (lunar) - 0.1.0-0
+
+The packages in the `zbar_ros` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release -r lunar -t lunar zbar_ros --edit` on `Thu, 14 Dec 2017 20:18:55 -0000`
+
+The `zbar_ros` package was released.
+
+Version of package(s) in repository `zbar_ros`:
+
+- upstream repository: https://github.com/clearpathrobotics/zbar_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.3`
+- vcstools version: `0.1.39`
+
+
 ## zbar_ros (kinetic) - 0.1.0-0
 
 The packages in the `zbar_ros` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic zbar_ros --edit` on `Thu, 14 Dec 2017 20:15:21 -0000`
