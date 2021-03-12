@@ -1,3 +1,26 @@
+## zbar_ros (melodic) - 0.3.0-1
+
+The packages in the `zbar_ros` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic zbar_ros` on `Fri, 12 Mar 2021 21:09:34 -0000`
+
+The `zbar_ros` package was released.
+
+Version of package(s) in repository `zbar_ros`:
+
+- upstream repository: https://github.com/ros-drivers/zbar_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## zbar_ros (lunar) - 0.1.0-0
 
 The packages in the `zbar_ros` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release -r lunar -t lunar zbar_ros --edit` on `Thu, 14 Dec 2017 20:18:55 -0000`
