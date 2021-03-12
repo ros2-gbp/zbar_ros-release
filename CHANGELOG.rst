@@ -2,6 +2,18 @@
 Changelog for package zbar_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2021-03-12)
+------------------
+* Lint and close `#6 <https://github.com/ros-drivers/zbar_ros/issues/6>`_
+* Contributors: Paul Bovbel
+
+0.2.0 (2021-03-12)
+------------------
+* Keep tooling CI
+* Update header for newer opencv version
+* Add github action
+* Contributors: Gary Servin, Paul Bovbel
+
 0.1.0 (2017-12-14)
 ------------------
 * Update maintainer
