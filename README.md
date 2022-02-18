@@ -1,3 +1,26 @@
+## zbar_ros (rolling) - 0.4.0-1
+
+The packages in the `zbar_ros` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling zbar_ros --edit` on `Fri, 18 Feb 2022 01:52:05 -0000`
+
+The `zbar_ros` package was released.
+
+Version of package(s) in repository `zbar_ros`:
+
+- upstream repository: https://github.com/ros-drivers/zbar_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## zbar_ros (noetic) - 0.3.0-1
 
 The packages in the `zbar_ros` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic zbar_ros` on `Fri, 12 Mar 2021 21:30:12 -0000`
