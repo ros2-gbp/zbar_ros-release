@@ -220,5 +220,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/ros-drivers/zbar_ros.git
-    version: 0.4.0
-    version_saved: :{auto}
+    version: :{auto}
