@@ -1,0 +1,12 @@
+Source: ros-jazzy-zbar-ros
+Section: misc
+Priority: optional
+Maintainer: ijnek <kenjibrameld@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libcv-bridge-dev, libsensor-msgs-dev, libstd-msgs-dev, libzbar-dev, python3-cv-bridge, python3-sensor-msgs, python3-std-msgs, ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto, ros-jazzy-ament-lint-common, ros-jazzy-rclcpp, ros-jazzy-zbar-ros-interfaces, ros-sensor-msgs, ros-std-msgs, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-zbar-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libcv-bridge-dev, libsensor-msgs-dev, libstd-msgs-dev, libzbar-dev, python3-cv-bridge, python3-sensor-msgs, python3-std-msgs, ros-jazzy-rclcpp, ros-jazzy-zbar-ros-interfaces, ros-sensor-msgs, ros-std-msgs, ros-jazzy-ros-workspace
+Description: Lightweight ROS wrapper for Zbar barcode/qrcode reader library (http://zbar.sourceforge .net/)
