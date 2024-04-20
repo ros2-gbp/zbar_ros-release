@@ -1,0 +1,68 @@
+ros-jazzy-zbar-ros-interfaces (0.6.0-1bookworm) bookworm; urgency=high
+
+  * Add Polygon Info obtained from zbar (#11 <https://github.com/ros-drivers/zbar_ros/issues/11>)
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 20 Apr 2024 05:00:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.5.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Wed, 17 Apr 2024 05:00:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.4.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 12 Feb 2022 06:00:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 12 Mar 2021 22:07:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 12 Mar 2021 21:54:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Thu, 14 Dec 2017 06:00:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.0.5-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Tue, 31 Mar 2015 05:00:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.0.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 16 Jan 2015 06:00:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sun, 11 Jan 2015 06:00:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 10 Jan 2015 22:31:00 -0000
+
+ros-jazzy-zbar-ros-interfaces (0.0.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 10 Jan 2015 22:25:00 -0000
+
+
