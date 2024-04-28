@@ -38,7 +38,6 @@
 #include "./zbar.h"
 #include "sensor_msgs/msg/image.hpp"
 #include "std_msgs/msg/string.hpp"
-#include "zbar_ros_interfaces/msg/symbol.hpp"
 
 namespace zbar_ros
 {
@@ -53,8 +52,7 @@ private:
   void cleanCb();
 
   rclcpp::Subscription<sensor_msgs::msg::Image>::SharedPtr camera_sub_;
-  rclcpp::Publisher<zbar_ros_interfaces::msg::Symbol>::SharedPtr symbol_pub_;
-  rclcpp::Publisher<std_msgs::msg::String>::SharedPtr barcode_pub_;  // DEPRECATED
+  rclcpp::Publisher<std_msgs::msg::String>::SharedPtr barcode_pub_;
   zbar::ImageScanner scanner_;
 
   rclcpp::TimerBase::SharedPtr clean_timer_;
