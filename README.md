@@ -1,3 +1,26 @@
+## zbar_ros (iron) - 0.5.1-1
+
+The packages in the `zbar_ros` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron zbar_ros -e` on `Sun, 28 Apr 2024 01:12:16 -0000`
+
+The `zbar_ros` package was released.
+
+Version of package(s) in repository `zbar_ros`:
+
+- upstream repository: https://github.com/ros-drivers/zbar_ros.git
+- release repository: https://github.com/ros2-gbp/zbar_ros-release.git
+- rosdistro version: `0.4.0-3`
+- old version: `0.4.0-3`
+- new version: `0.5.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## zbar_ros (humble) - 0.4.1-1
 
 The packages in the `zbar_ros` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble zbar_ros -e` on `Sun, 28 Apr 2024 01:09:19 -0000`
