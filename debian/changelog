@@ -1,0 +1,75 @@
+ros-kilted-zbar-ros (0.7.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sun, 28 Apr 2024 05:00:00 -0000
+
+ros-kilted-zbar-ros (0.6.0-2bookworm) bookworm; urgency=high
+
+  * Add new Symbol.msg, with more polygon Info obtained from zbar (#11 <https://github.com/ros-drivers/zbar_ros/issues/11>)
+  * Deprecate barcode topic (#11 <https://github.com/ros-drivers/zbar_ros/issues/11>)
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 20 Apr 2024 05:00:00 -0000
+
+ros-kilted-zbar-ros (0.5.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Wed, 17 Apr 2024 05:00:00 -0000
+
+ros-kilted-zbar-ros (0.4.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 12 Feb 2022 06:00:00 -0000
+
+ros-kilted-zbar-ros (0.3.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 12 Mar 2021 22:07:00 -0000
+
+ros-kilted-zbar-ros (0.2.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 12 Mar 2021 21:54:00 -0000
+
+ros-kilted-zbar-ros (0.1.0-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Thu, 14 Dec 2017 06:00:00 -0000
+
+ros-kilted-zbar-ros (0.0.5-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Tue, 31 Mar 2015 05:00:00 -0000
+
+ros-kilted-zbar-ros (0.0.4-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 16 Jan 2015 06:00:00 -0000
+
+ros-kilted-zbar-ros (0.0.3-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sun, 11 Jan 2015 06:00:00 -0000
+
+ros-kilted-zbar-ros (0.0.2-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 10 Jan 2015 22:31:00 -0000
+
+ros-kilted-zbar-ros (0.0.1-2bookworm) bookworm; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 10 Jan 2015 22:25:00 -0000
+
+
