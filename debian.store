@@ -1,1 +1,1 @@
-{"base": "364b472", "parent": "debian/rolling/zbar_ros", "previous": "a1efef5", "trim": "", "trimbase": ""}
+{"base": "794f8cfebf81", "parent": "debian/kilted/zbar_ros", "previous": "b38f835073c7", "trim": "", "trimbase": ""}
