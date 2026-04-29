@@ -1,0 +1,12 @@
+Source: ros-lyrical-zbar-ros
+Section: misc
+Priority: optional
+Maintainer: ijnek <kenjibrameld@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libzbar-dev, ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-cv-bridge, ros-lyrical-rclcpp, ros-lyrical-sensor-msgs, ros-lyrical-std-msgs, ros-lyrical-zbar-ros-interfaces, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/zbar_ros/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-zbar-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libzbar-dev, ros-lyrical-cv-bridge, ros-lyrical-rclcpp, ros-lyrical-sensor-msgs, ros-lyrical-std-msgs, ros-lyrical-zbar-ros-interfaces, ros-lyrical-ros-workspace
+Description: Lightweight ROS wrapper for Zbar barcode/qrcode reader library (http://zbar.sourceforge .net/)
